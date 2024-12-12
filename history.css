@@ -1,0 +1,9 @@
+body{
+    background-color: rgba(245, 245, 245, 0.664);
+}
+.bold{
+    text-decoration: double;
+}
+.container-img{
+    display: inline-block;
+}

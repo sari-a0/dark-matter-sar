@@ -1,0 +1,29 @@
+.bullet{
+    border: 2px black solid;
+
+    border-radius: 10px;
+    
+}
+.heading{
+    font-family: Garamond, serif;
+    display: flex;
+    justify-content: center;
+
+}
+.p{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    color: rgb(5, 12, 51);
+}
+#colour{
+    background-color: rgba(204, 197, 197, 0.781);
+    
+    
+}
+.image{
+    display: absolute;
+    justify-content: center;
+    align-items: center;
+    margin: 5%;
+}
